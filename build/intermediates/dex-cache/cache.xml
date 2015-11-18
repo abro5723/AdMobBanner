@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/classes-192cf7a7f4097142a4bccf3bb4df00ec05bacc2d.jar" />
+    </item>
+    <item
+        jar="/Users/abro5723/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f420d1f1971b815a704bed1000c6f5a5653bc7ee.jar" />
+    </item>
+    <item
+        jar="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/classes-be7cafe8ce966d19c20b854c0570d1bcea05fc15.jar" />
+    </item>
+    <item
+        jar="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/classes-7dde8705e43b268b213152487d30f5e5b7837b41.jar" />
+    </item>
+    <item
+        jar="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/classes-5339804bcdf7ca5f2e5ba35e1c2a2dd618aca831.jar" />
+    </item>
+    <item
+        jar="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0b2891f706eec227aa19c9c0de0bb8bcfb885d04.jar" />
+    </item>
+    <item
+        jar="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/abro5723/Documents/workspace/AdMobBanner/app/build/intermediates/pre-dexed/debug/classes-d35f118a8fb15612cebd8711137fd662e0ab26c4.jar" />
+    </item>
+
+</items>
